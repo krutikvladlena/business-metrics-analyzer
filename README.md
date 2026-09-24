@@ -16,3 +16,11 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 python main.py
+
+## Пример бизнес-задачи
+Расчёт рентабельности по данным о выручке и затратах.
+
+## Планируемые метрики
+- Средняя выручка
+- Рентабельность
+- Динамика по месяцам
